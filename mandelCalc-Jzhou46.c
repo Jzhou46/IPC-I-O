@@ -1,8 +1,9 @@
 //
 // Jeffrey Zhou
-// Jzhou46
+// JZhou46
 // CS 361
 // Inter-Process Communications & I/O
+// 11/16/14
 //
 #include <stdio.h>
 #include <stdlib.h>
